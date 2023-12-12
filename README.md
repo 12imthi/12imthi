@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **js**
 
-- 💬 Ask me about **html,css,js(bsic only)**
+- 💬 Ask me about **html,css,js(basic only)**
 
 - 📫 How to reach me **msdimthi6@gmail.com**
 
